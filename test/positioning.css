@@ -1,0 +1,39 @@
+.text{
+	text-align: left;
+	margin: 0 auto 0 auto;
+}
+
+.container{
+	margin-left: 400px;
+	margin-right: 400px;
+}
+
+.box1{
+	width: 100%;
+	height: 200px;
+	background-color: grey;
+	position: relative;
+}
+
+.box2{
+	width: 200px;
+	height: 100px;
+	background-color:#816E6E;
+	position: absolute;
+	right: 350px;
+	top: 358px;
+}
+
+.box-text{
+	text-align: center;
+	font-style: bold;
+}
+
+.box3{
+	width: 200px;
+	height: 100px;
+	background-color:#B96D6D;
+	position: fixed;
+	top: 0px;
+	left: 0	px;
+}
